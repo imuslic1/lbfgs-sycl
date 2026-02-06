@@ -567,7 +567,7 @@ int main() {
     std::cout << "Quadratic Final F: " << std::scientific << f_quad << " (Target: 0.0)\n";
     std::cout << "Time elapsed: " << std::fixed << ms << " ms\n\n";
 
-    /*
+    
     // --- Rosenbrock ---
     std::fill(x0.begin(), x0.end(), (T)-1.2);
     std::cout << "Starting: Rosenbrock Test (N=" << N << ")...\n";
@@ -580,7 +580,7 @@ int main() {
     double ms_rosen = std::chrono::duration<double, std::milli>(t1 - t0).count();
     std::cout << "Rosenbrock Final F: " << std::scientific << f_rosen << " (Target: 0.0)\n";
     std::cout << "Rosenbrock Time elapsed: " << std::fixed << ms_rosen << " ms\n\n";
-    */
+    
 
     // --- Rastrigin ---
     std::fill(x0.begin(), x0.end(), (T)2.5);

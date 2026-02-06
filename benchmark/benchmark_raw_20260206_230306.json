@@ -1,0 +1,222 @@
+[
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4650.519700022414,
+    [
+      {
+        "name": "Quadratic",
+        "time": 15.1612
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4437.8317
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.5463
+      },
+      {
+        "name": "Ackley",
+        "time": 30.1386
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4564.284400083125,
+    [
+      {
+        "name": "Quadratic",
+        "time": 16.3034
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4359.1276
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.3476
+      },
+      {
+        "name": "Ackley",
+        "time": 29.8412
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4677.220799960196,
+    [
+      {
+        "name": "Quadratic",
+        "time": 14.3695
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4476.0495
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.5222
+      },
+      {
+        "name": "Ackley",
+        "time": 29.6562
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4589.651700109243,
+    [
+      {
+        "name": "Quadratic",
+        "time": 15.27
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4385.9547
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.9816
+      },
+      {
+        "name": "Ackley",
+        "time": 30.5594
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4633.499799994752,
+    [
+      {
+        "name": "Quadratic",
+        "time": 14.1193
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4430.0817
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.3822
+      },
+      {
+        "name": "Ackley",
+        "time": 30.1713
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4560.694899875671,
+    [
+      {
+        "name": "Quadratic",
+        "time": 15.1835
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4359.2704
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.3544
+      },
+      {
+        "name": "Ackley",
+        "time": 29.6287
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4578.815400134772,
+    [
+      {
+        "name": "Quadratic",
+        "time": 14.4646
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4363.1716
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.3804
+      },
+      {
+        "name": "Ackley",
+        "time": 29.7723
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4733.185500139371,
+    [
+      {
+        "name": "Quadratic",
+        "time": 14.3239
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4523.6877
+      },
+      {
+        "name": "Rastrigin",
+        "time": 16.0988
+      },
+      {
+        "name": "Ackley",
+        "time": 30.1196
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4972.538300091401,
+    [
+      {
+        "name": "Quadratic",
+        "time": 15.4515
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4748.5819
+      },
+      {
+        "name": "Rastrigin",
+        "time": 20.3143
+      },
+      {
+        "name": "Ackley",
+        "time": 35.755
+      }
+    ]
+  ],
+  [
+    ".\\lbfgs_sycl_opt.exe",
+    4923.083700006828,
+    [
+      {
+        "name": "Quadratic",
+        "time": 14.3474
+      },
+      {
+        "name": "Rosenbrock",
+        "time": 4712.2482
+      },
+      {
+        "name": "Rastrigin",
+        "time": 14.2553
+      },
+      {
+        "name": "Ackley",
+        "time": 31.3159
+      }
+    ]
+  ]
+]
