@@ -14,7 +14,7 @@ The results show **order-of-magnitude speedups** on an Intel Arc discrete GPU, v
 - **Memory:** 12 GB VRAM  
 - **Backend:** Level Zero  
 - **Compiler:** Intel oneAPI DPC++ (`icpx`)  
-- **Optimization flags:** `/O3 /fsycl`
+- **Optimization flags:** `-O3 -fsycl`
 
 ### CPU Baseline
 - **Processor:** Intel® Core™ i5-14600K  
