@@ -97,6 +97,10 @@ Speedups are computed against **fixed CPU baseline runtimes**.
 - **No CUDA required**  
   The entire pipeline runs on Intel hardware using open standards.
 
+- **Dimensions can be pushed to extremes**  
+  The algorithm is numerically stable at any dimension, meaning N can be pushed to as far as VRAM allows it. 
+  The tests performed on the Intel Arc B580 GPU (12 GB VRAM) capped out at N = 1<<27, with 11.4 GB of VRAM usage.
+
 ---
 
 ## Conclusion
